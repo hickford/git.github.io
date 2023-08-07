@@ -46,6 +46,7 @@ __Easy watching__
 
 __Git tools and sites__
 
+* [git-credential-azure](https://github.com/hickford/git-credential-azure) is a Git credential helper that authenticates to [Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos) (dev.azure.com).
 
 ## Releases
 
